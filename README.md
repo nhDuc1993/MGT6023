@@ -21,6 +21,10 @@ Required libraries: importlib, subprocess, pandas, numpy, matplotlib, seaborn, p
 Then clone the repository:
 - git clone https://github.com/your-username/project-name.git
 
+# Data Source
+The dataset can be downloaded via this link: https://drive.google.com/uc?id=1DopC7bm_EWX_ocqbOIkME9usE5rG3pZE </br>
+However, you can download the file by running the Code/download.ipynb notebook or each time you run any other notebook, the file will be downloaded automatically if it's not already available in the Data folder.
+
 # Folder Structure
 - Code
   - Temp 
